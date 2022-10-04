@@ -13,6 +13,19 @@
     "Notes": ""
   },
   {
+    "name": "puppy",
+    "download_url": "https://drive.google.com/file/d/10buXXxlp9mD6yR-us7gY2WHSTwUKXKv0/view?usp=sharing",
+    "author": "sa",
+    "author_url": "",
+    "dataset": "puppy",
+    "source_url": "https://github.com/NVlabs/stylegan2",
+    "resolution": "512x512",
+    "config": "e",
+    "license": "Nvidia Source Code License-NC",
+    "implementation": "https://github.com/NVlabs/stylegan2",
+    "Notes": ""
+  },
+  {
     "name": "car (config-f)",
     "download_url": "http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/stylegan2-car-config-f.pkl",
     "author": "NVIDIA",
